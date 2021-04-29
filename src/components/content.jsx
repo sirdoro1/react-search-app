@@ -4,7 +4,7 @@ class Content extends Component {
     render() {
         return (
             <div>
-                <span>Olodo FC</span>
+                <span className="h5 text-success">Olodo FC</span>
             </div>
         );
     }

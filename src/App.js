@@ -4,7 +4,7 @@ import Content from './components/content';
 function App() {
   return (
     <div className="App">
-        <Content/>
+        <Content className="bg-success"/>
     </div>
   );
 }
